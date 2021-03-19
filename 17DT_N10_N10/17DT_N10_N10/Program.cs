@@ -7,6 +7,7 @@ namespace _17DT_N10_N10
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hellooooooooooooooooo World!");
         }
     }
 }
